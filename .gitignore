@@ -31,3 +31,28 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# spring boot
+/.idea/
+
+/FirstLesson.iml
+*/target/**
+
+
+
+
+
+**/target
+**/*.iml
+
+**/logs
+**/*.log
+/logs/**
+
+# ios
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## OSX
+.DS_Store
