@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ir.aamnapm</groupId>
-    <artifactId>image_resizer</artifactId>
+    <artifactId>resize_image</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Image Resizer</name>
-    <description>Image Resizer project for Spring Boot</description>
+    <name>Resize Image</name>
+    <description>Resize Image project for Spring Boot</description>
 
     <properties>
         <java.version>11</java.version>

@@ -1,13 +1,13 @@
-package ir.aamnapm.image_resizer;
+package ir.aamnapm.resize_image;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ImageResizerApplication {
+public class ResizeImageApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ImageResizerApplication.class, args);
+        SpringApplication.run(ResizeImageApplication.class, args);
     }
 
 }
